@@ -1,4 +1,12 @@
 #!/bin/sh
+
+#
+# Install Xcode Command line Tools & accept License
+#
+sudo xcodebuild --license
+xcode-select --install
+
+
 #
 # Brew packages that I use alot.
 #
@@ -24,3 +32,5 @@ brew install testssl
 #
 brew cask install sublime-text
 brew cask install alfred
+brew cask install google-chrome
+brew cask install firefox
