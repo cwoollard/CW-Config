@@ -18,6 +18,7 @@ brew install imagemagick
 brew install python3
 brew install wakeonlan
 brew install wget
+brew install magic-wormhole
 
 #
 # Brew packages that I use for Pen Testing
