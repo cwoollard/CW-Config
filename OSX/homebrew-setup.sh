@@ -29,9 +29,19 @@ brew install sslscan
 brew install testssl
 
 #
+# Brew packages for Hashicorp products
+#
+brew install vault
+brew install packer
+brew install terraform
+
+#
 # Some cask packages that I like.
 #
 brew cask install sublime-text
 brew cask install alfred
 brew cask install google-chrome
 brew cask install firefox
+brew cask install anaconda
+brew cask install atom
+brew cask install rust
