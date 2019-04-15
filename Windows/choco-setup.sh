@@ -16,3 +16,4 @@ choco install powershell
 choco install curl
 choco install slack
 
+choco install vim wget atom openssh sysinternals putty
