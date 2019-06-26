@@ -50,4 +50,4 @@ brew cask install atom
 # Packages required for use of docker & k8s.
 #
 brew install jq tree
-brew install make --with-default-names
+brew install make
