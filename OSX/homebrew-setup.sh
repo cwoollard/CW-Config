@@ -44,4 +44,10 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install anaconda
 brew cask install atom
-brew cask install rust
+#brew cask install rust //I prefer the full non-homebrew version.
+
+#
+# Packages required for use of docker & k8s.
+#
+brew install jd tree
+brew install make --with-default-names
