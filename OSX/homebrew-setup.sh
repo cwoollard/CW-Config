@@ -19,6 +19,8 @@ brew install python3
 brew install wakeonlan
 brew install wget
 brew install magic-wormhole
+brew install go
+brew install coreutils
 
 #
 # Brew packages that I use for Pen Testing
@@ -33,7 +35,8 @@ brew install testssl
 #
 brew install vault
 brew install packer
-brew install terraform
+#brew install terraform
+brew install tfenv
 
 #
 # Some cask packages that I like.
